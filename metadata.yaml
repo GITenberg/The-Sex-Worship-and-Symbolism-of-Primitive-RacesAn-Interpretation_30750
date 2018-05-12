@@ -1,0 +1,36 @@
+_repo: The-Sex-Worship-and-Symbolism-of-Primitive-RacesAn-Interpretation_30750
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Leuba, James H. (James Henry)
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '34809'
+    url: http://www.gutenberg.org/2009/agents/34809
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Sanger
+    birthdate: 1884
+    deathdate: 1968
+    gutenberg_agent_id: '34807'
+    url: http://www.gutenberg.org/2009/agents/34807
+description: ''
+gutenberg_issued: '2009-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30750'
+  lccn: '16024311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Phallicism'
+- !lcsh 'Sex -- Religious aspects'
+- !lcsh 'Symbolism'
+title: 'The Sex Worship and Symbolism of Primitive Races: An Interpretation'
+url: http://www.gutenberg.org/ebooks/30750
